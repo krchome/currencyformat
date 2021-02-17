@@ -1,0 +1,36 @@
+D:\dropbox\Dropbox\YouTube-Channel\Projects_For_Videos\Draft\ASP.NET 5\YogiHosting\Multilingual Website\Multilingual Website Demo\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\dropbox\Dropbox\YouTube-Channel\Projects_For_Videos\Draft\ASP.NET 5\YogiHosting\Multilingual Website\Multilingual Website Demo\bin\Debug\netcoreapp3.1\appsettings.json
+D:\dropbox\Dropbox\YouTube-Channel\Projects_For_Videos\Draft\ASP.NET 5\YogiHosting\Multilingual Website\Multilingual Website Demo\bin\Debug\netcoreapp3.1\Multilingual Website Demo.exe
+D:\dropbox\Dropbox\YouTube-Channel\Projects_For_Videos\Draft\ASP.NET 5\YogiHosting\Multilingual Website\Multilingual Website Demo\bin\Debug\netcoreapp3.1\Multilingual Website Demo.deps.json
+D:\dropbox\Dropbox\YouTube-Channel\Projects_For_Videos\Draft\ASP.NET 5\YogiHosting\Multilingual Website\Multilingual Website Demo\bin\Debug\netcoreapp3.1\Multilingual Website Demo.runtimeconfig.json
+D:\dropbox\Dropbox\YouTube-Channel\Projects_For_Videos\Draft\ASP.NET 5\YogiHosting\Multilingual Website\Multilingual Website Demo\bin\Debug\netcoreapp3.1\Multilingual Website Demo.runtimeconfig.dev.json
+D:\dropbox\Dropbox\YouTube-Channel\Projects_For_Videos\Draft\ASP.NET 5\YogiHosting\Multilingual Website\Multilingual Website Demo\bin\Debug\netcoreapp3.1\Multilingual Website Demo.dll
+D:\dropbox\Dropbox\YouTube-Channel\Projects_For_Videos\Draft\ASP.NET 5\YogiHosting\Multilingual Website\Multilingual Website Demo\bin\Debug\netcoreapp3.1\Multilingual Website Demo.pdb
+D:\dropbox\Dropbox\YouTube-Channel\Projects_For_Videos\Draft\ASP.NET 5\YogiHosting\Multilingual Website\Multilingual Website Demo\bin\Debug\netcoreapp3.1\Multilingual Website Demo.Views.dll
+D:\dropbox\Dropbox\YouTube-Channel\Projects_For_Videos\Draft\ASP.NET 5\YogiHosting\Multilingual Website\Multilingual Website Demo\bin\Debug\netcoreapp3.1\Multilingual Website Demo.Views.pdb
+D:\dropbox\Dropbox\YouTube-Channel\Projects_For_Videos\Draft\ASP.NET 5\YogiHosting\Multilingual Website\Multilingual Website Demo\obj\Debug\netcoreapp3.1\Multilingual Website Demo.AssemblyInfoInputs.cache
+D:\dropbox\Dropbox\YouTube-Channel\Projects_For_Videos\Draft\ASP.NET 5\YogiHosting\Multilingual Website\Multilingual Website Demo\obj\Debug\netcoreapp3.1\Multilingual Website Demo.AssemblyInfo.cs
+D:\dropbox\Dropbox\YouTube-Channel\Projects_For_Videos\Draft\ASP.NET 5\YogiHosting\Multilingual Website\Multilingual Website Demo\obj\Debug\netcoreapp3.1\Multilingual Website Demo.csproj.CoreCompileInputs.cache
+D:\dropbox\Dropbox\YouTube-Channel\Projects_For_Videos\Draft\ASP.NET 5\YogiHosting\Multilingual Website\Multilingual Website Demo\obj\Debug\netcoreapp3.1\Multilingual Website Demo.MvcApplicationPartsAssemblyInfo.cache
+D:\dropbox\Dropbox\YouTube-Channel\Projects_For_Videos\Draft\ASP.NET 5\YogiHosting\Multilingual Website\Multilingual Website Demo\obj\Debug\netcoreapp3.1\Multilingual Website Demo.RazorAssemblyInfo.cache
+D:\dropbox\Dropbox\YouTube-Channel\Projects_For_Videos\Draft\ASP.NET 5\YogiHosting\Multilingual Website\Multilingual Website Demo\obj\Debug\netcoreapp3.1\Multilingual Website Demo.RazorAssemblyInfo.cs
+D:\dropbox\Dropbox\YouTube-Channel\Projects_For_Videos\Draft\ASP.NET 5\YogiHosting\Multilingual Website\Multilingual Website Demo\obj\Debug\netcoreapp3.1\staticwebassets\Multilingual Website Demo.StaticWebAssets.Manifest.cache
+D:\dropbox\Dropbox\YouTube-Channel\Projects_For_Videos\Draft\ASP.NET 5\YogiHosting\Multilingual Website\Multilingual Website Demo\obj\Debug\netcoreapp3.1\staticwebassets\Multilingual Website Demo.StaticWebAssets.xml
+D:\dropbox\Dropbox\YouTube-Channel\Projects_For_Videos\Draft\ASP.NET 5\YogiHosting\Multilingual Website\Multilingual Website Demo\obj\Debug\netcoreapp3.1\scopedcss\bundle\Multilingual Website Demo.styles.css
+D:\dropbox\Dropbox\YouTube-Channel\Projects_For_Videos\Draft\ASP.NET 5\YogiHosting\Multilingual Website\Multilingual Website Demo\obj\Debug\netcoreapp3.1\Multilingual Website Demo.TagHelpers.input.cache
+D:\dropbox\Dropbox\YouTube-Channel\Projects_For_Videos\Draft\ASP.NET 5\YogiHosting\Multilingual Website\Multilingual Website Demo\obj\Debug\netcoreapp3.1\Multilingual Website Demo.TagHelpers.output.cache
+D:\dropbox\Dropbox\YouTube-Channel\Projects_For_Videos\Draft\ASP.NET 5\YogiHosting\Multilingual Website\Multilingual Website Demo\obj\Debug\netcoreapp3.1\Multilingual Website Demo.RazorCoreGenerate.cache
+D:\dropbox\Dropbox\YouTube-Channel\Projects_For_Videos\Draft\ASP.NET 5\YogiHosting\Multilingual Website\Multilingual Website Demo\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\dropbox\Dropbox\YouTube-Channel\Projects_For_Videos\Draft\ASP.NET 5\YogiHosting\Multilingual Website\Multilingual Website Demo\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\dropbox\Dropbox\YouTube-Channel\Projects_For_Videos\Draft\ASP.NET 5\YogiHosting\Multilingual Website\Multilingual Website Demo\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\dropbox\Dropbox\YouTube-Channel\Projects_For_Videos\Draft\ASP.NET 5\YogiHosting\Multilingual Website\Multilingual Website Demo\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\dropbox\Dropbox\YouTube-Channel\Projects_For_Videos\Draft\ASP.NET 5\YogiHosting\Multilingual Website\Multilingual Website Demo\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\dropbox\Dropbox\YouTube-Channel\Projects_For_Videos\Draft\ASP.NET 5\YogiHosting\Multilingual Website\Multilingual Website Demo\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\dropbox\Dropbox\YouTube-Channel\Projects_For_Videos\Draft\ASP.NET 5\YogiHosting\Multilingual Website\Multilingual Website Demo\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\dropbox\Dropbox\YouTube-Channel\Projects_For_Videos\Draft\ASP.NET 5\YogiHosting\Multilingual Website\Multilingual Website Demo\obj\Debug\netcoreapp3.1\Multilingual Website Demo.RazorTargetAssemblyInfo.cache
+D:\dropbox\Dropbox\YouTube-Channel\Projects_For_Videos\Draft\ASP.NET 5\YogiHosting\Multilingual Website\Multilingual Website Demo\obj\Debug\netcoreapp3.1\Multilingual Website Demo.RazorTargetAssemblyInfo.cs
+D:\dropbox\Dropbox\YouTube-Channel\Projects_For_Videos\Draft\ASP.NET 5\YogiHosting\Multilingual Website\Multilingual Website Demo\obj\Debug\netcoreapp3.1\Multilingual Website Demo.Views.pdb
+D:\dropbox\Dropbox\YouTube-Channel\Projects_For_Videos\Draft\ASP.NET 5\YogiHosting\Multilingual Website\Multilingual Website Demo\obj\Debug\netcoreapp3.1\Multilingual Website Demo.dll
+D:\dropbox\Dropbox\YouTube-Channel\Projects_For_Videos\Draft\ASP.NET 5\YogiHosting\Multilingual Website\Multilingual Website Demo\obj\Debug\netcoreapp3.1\Multilingual Website Demo.pdb
+D:\dropbox\Dropbox\YouTube-Channel\Projects_For_Videos\Draft\ASP.NET 5\YogiHosting\Multilingual Website\Multilingual Website Demo\obj\Debug\netcoreapp3.1\Multilingual Website Demo.genruntimeconfig.cache
+D:\dropbox\Dropbox\YouTube-Channel\Projects_For_Videos\Draft\ASP.NET 5\YogiHosting\Multilingual Website\Multilingual Website Demo\obj\Debug\netcoreapp3.1\Multilingual Website Demo.csproj.CopyComplete
